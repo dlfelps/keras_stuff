@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+#except 
+!.gitignore
+!*.py
+
+#even if in subdirectories
+/keras-vis/*
+/__pycache__/*
+/logs/*
